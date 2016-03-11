@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/entity/Adapters/AddresseeAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/AttachmentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/CitizenDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/ConfidentialIncomingDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/ConfidentialOutgoingDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/DocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/DocumentsEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/GeographicData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/IncomingDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/InnerDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/LinkEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/NativeDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/OutgoingDocumentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/ResolutionEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/SecurityEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Entity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Key.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/MultiValuedKey.java" charset="UTF-8" />
+  </component>
+</project>

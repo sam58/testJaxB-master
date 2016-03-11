@@ -1,0 +1,69 @@
+<documents>
+
+    <InnerDocument type="Input">
+        <title>Тест</title>
+        <importUid>70D98F4FBC56BE2144257B3D002A8E36</importUid>
+        <incomingNumber/>
+        <pageCount>1</pageCount>
+        <instanceQuantity/>
+        <copyQuantity/>
+        <appQuantity/>
+        <dateCreate type="xsd:date">2013-03-29T11:44:49</dateCreate>
+        <dateModified type="xsd:date">2014-11-14T02:01:27</dateModified>
+        <docKind/>
+        <registrationPlace>Отдел специальных форм и технологий продаж</registrationPlace>
+        <registrationPerson>Череватая В.Г.</registrationPerson>
+        <registrationDate>2013-03-29</registrationDate>
+        <outDate/>
+        <correspondent/>
+        <firmId/>
+        <author>Пожидаев И.В.</author>
+        <fromAddress/>
+        <executor>Череватая В.Г.</executor>
+        <documentNumber>1</documentNumber>
+        <externalId>70D98F4FBC56BE2144257B3D002A8E36</externalId>
+        <externalUri>Notes://{SERVER}/C3256C8C0022304B/0/70D98F4FBC56BE2144257B3D002A8E36</externalUri>
+        <importComplete>false</importComplete>
+        <specialNotes/>
+        <regNumber>44.9/1</regNumber>
+        <regNumberCounterValue>1</regNumberCounterValue>
+        <draftNumber/>
+        <LbDraftNumberCounterValue/>
+        <replicaId>C3256C8C0022304B</replicaId>
+        <addressees>
+            <addressee>Портной М.А. (дела принял от: Пожидаев И.В.)%Директор
+                департамента%ДУПр%3AF9410E22EAA7C4C32576BD002DFC87%C3256EE80022A6CC
+            </addressee>
+        </addressees>
+        <signer>Портной М.А. (дела принял от: Пожидаев И.В.)%Директор
+            департамента%ДУПр%3AF9410E22EAA7C4C32576BD002DFC87%C3256EE80022A6CC
+        </signer>
+        <prescriptionStatus/>
+        <executors>
+            <executor>Череватая В.Г.%Ведущий эксперт%Группа электронного
+                документооборота%EAA64EB580440200C325752300267F10%C3256EE80022A6CC
+            </executor>
+        </executors>
+        <othersigners/>
+        <correspondents/>
+        <correspondentIds/>
+        <resolutions/>
+        <attachments/>
+        <links/>
+        <security>
+            <readers>
+                <value>_99.5TY</value>
+                <value>_99.KO0</value>
+                <value>[AllReader]</value>
+            </readers>
+            <authors>
+                <value>CMDeloDUKDZ</value>
+                <value>CMosfpDUKDZ</value>
+                <value>CN=Valentina G. Cherevataya/OU=MOWHQ/O=Aeroflot/C=RU</value>
+                <value>[Supervisor]</value>
+                <value>_99.5UH</value>
+                <value>KASUDGO</value>
+            </authors>
+        </security>
+    </InnerDocument>
+</documents>
